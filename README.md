@@ -16,10 +16,10 @@
 
 ## Language Proficiency
 - **Spanish:** `     █████████████████████████ 100%`
-- **English:** `     ███████████████████▁▁▁▁▁ 80%`
+- **English:** `     ████████████████████▁▁▁▁▁ 80%`
 - **Portuguese:** `  █████████████▁▁▁▁▁▁▁▁▁▁▁▁ 50%`
 
-`well... currently i am uploading everything to github, soo this is a bit empty by the moment` 
+`well... i am uploading everything to github, soooo this is a bit empty by the moment` 
  
 ## 🌱 I’m currently learning ...
 - **Godot && GDscript for GODOT**, i don't have any finished games currently but i will post be uploading a couple of projects publicly
@@ -29,7 +29,7 @@ so anybody can take a look to the stuff i'll do.
 
 ## 💞️ I’m looking to collaborate on ...
 - Currently, i am just setting up my github and have an eye to a couple of technologys, although i'd love to contribute to the
-- open source community, specially in the ricing part of linux (r/unixporn :,D)
+open source community, specially in the ricing part of linux (r/unixporn :,D)
   
 
 ## 📫 How to reach me ...
