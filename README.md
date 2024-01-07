@@ -15,9 +15,9 @@
 - Cat lover with a passion for curly/afro hair
 
 ## Language Proficiency
-- **Spanish:**    `█████████████████████████ 100%`
-- **English:**    `███████████████████▁▁▁▁▁ 80%`
-- **Portuguese:** `█████████████▁▁▁▁▁▁▁▁▁▁▁▁ 50%`
+- **Spanish:** `     █████████████████████████ 100%`
+- **English:** `     ███████████████████▁▁▁▁▁ 80%`
+- **Portuguese:** `  █████████████▁▁▁▁▁▁▁▁▁▁▁▁ 50%`
 
 `well... currently i am uploading everything to github, soo this is a bit empty by the moment` 
  
