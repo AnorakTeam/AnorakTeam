@@ -1,11 +1,13 @@
 # Welcome to My GitHub Profile! 🚀
-<p>
+
+```
      _                          _    _____                    
     / \   _ __   ___  _ __ __ _| | _|_   _|__  __ _ _ __ ___  
    / _ \ | '_ \ / _ \| '__/ _` | |/ / | |/ _ \/ _` | '_ ` _ \ 
   / ___ \| | | | (_) | | | (_| |   <  | |  __/ (_| | | | | | |
  /_/   \_\_| |_|\___/|_|  \__,_|_|\_\ |_|\___|\__,_|_| |_| |_|
-</p>
+```
+       
 ## About Me
 - Systems Engineering student
 - Python enthusiast
@@ -17,7 +19,7 @@
 - **English:**    ████████████████████▁▁▁▁▁  80%
 - **Portuguese:** █████████████▁▁▁▁▁▁▁▁▁▁▁▁  50%
 
-# well... currently i am uploading everything to github, soo this is a bit empty by the moment 
+`well... currently i am uploading everything to github, soo this is a bit empty by the moment` 
  
 ## 🌱 I’m currently learning ...
 - **Godot && GDscript for GODOT**, i don't have any finished games currently but i will post be uploading a couple of projects publicly
