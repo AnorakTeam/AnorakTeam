@@ -12,12 +12,20 @@
 - Systems Engineering student
 - Python enthusiast
 - Arch Linux enthusiast
-- Cat lover with a passion for curly/afro hair
+- Curly/afro hair lover
+- I also like the cats, they are cute
 
 ## Language Proficiency
-- **Spanish:** `     █████████████████████████ 100%`
-- **English:** `     ████████████████████▁▁▁▁▁ 80%`
-- **Portuguese:** `  █████████████▁▁▁▁▁▁▁▁▁▁▁▁ 50%`
+- **Spanish:**
+  
+    █████████████████████████ 100%
+- **English:**
+  
+    ████████████████████▁▁▁▁▁▁▁▁   80%
+- **Portuguese:**
+  
+    █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   50%
+
 
 `well... i am uploading everything to github, soooo this is a bit empty by the moment` 
  
